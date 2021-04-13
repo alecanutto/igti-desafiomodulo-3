@@ -1,0 +1,27 @@
+.todo {  
+  margin: 1rem;
+  padding: 2rem;
+  background: #fff;
+  border: 2px solid #bdc3c7;
+  border-radius: 5px;
+}
+
+i {
+  margin-right: 1rem;
+  cursor: pointer;
+  color: #2196f3;
+}
+
+.details {
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  justify-content: baseline;
+  color: #141414;
+  font-size: 1.5rem;
+}
+
+.details > strong {
+  font-weight: 700;
+  margin-right: 5px;
+}

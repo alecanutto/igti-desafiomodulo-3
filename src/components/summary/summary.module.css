@@ -1,0 +1,26 @@
+.summary {
+ margin: 2rem;
+}
+
+.summary span {
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin-right: 2rem;
+}
+
+.summary strong {
+  font-size: 1.8rem;
+  font-weight: 400;
+}
+
+.total {
+  color: rgb(31, 10, 224);
+}
+
+.done {
+  color: rgb(10, 224, 28);
+}
+
+.notDone {
+  color: rgb(224, 10, 10);
+}
